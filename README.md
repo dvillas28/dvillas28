@@ -1,5 +1,3 @@
-👊🤠
-<!---
-dvillas28/dvillas28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# :eyes: About Me:
+- Student of Civil Engineering in Computer Science at the Pontifical Catholic University of Chile
+
