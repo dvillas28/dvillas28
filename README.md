@@ -66,6 +66,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&style=flat-square&+logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&style=flat-square&logoColor=fff)](#)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)](#)
+[![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat-square&&logo=typst&&logoColor=white)](#)
 
 ## 📊 Data Science & Machine Learning
 
