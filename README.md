@@ -1,7 +1,6 @@
 # 👀 About Me
 
 - Computer Science Engineering student at PUC
-- I'm Currently working on [FRANKIE-Brains](https://github.com/dvillas28/Frankie-Brains)
 
 ## 🛠️ Some of the tools that I have learned and used
 
